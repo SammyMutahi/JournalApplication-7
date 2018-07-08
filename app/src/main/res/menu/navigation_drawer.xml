@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/entries"
+            android:icon="@drawable/ic_add_black"
+            android:title="@string/entry_list" />
+        <item
+            android:id="@+id/update_event"
+            android:icon="@drawable/ic_check_circle_black_update"
+            android:title="@string/event_update" />
+        <item
+            android:id="@+id/delete_event"
+            android:icon="@drawable/ic_cancel_black_delete"
+            android:title="@string/event_delete" />
+
+    </group>
+    <item android:title="@string/add_ons">
+        <menu>
+            <item
+                android:id="@+id/location"
+                android:icon="@drawable/ic_place_black"
+                android:title="@string/location_map" />
+        </menu>
+    </item>
+</menu>

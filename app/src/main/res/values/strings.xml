@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">JournalApp</string>
+    <string name="text_title">Awesome Journal Application</string>
+    <string name="entry_list">EntryList</string>
+    <string name="save_entries">Save</string>
+    <string name="display_activity_title">Events</string>
+    <string name="entry_event_title">EventsEntry</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="pick_date_title">Date</string>
+    <string name="pick_time">Pick time</string>
+    <string name="pick_time_title">Time</string>
+    <string name="settings_title">Settings</string>
+    <string name="change_layout_color">Change Layout Color</string>
+    <string name="update_events">Update Events</string>
+    <string name="delete_events">Delete Events</string>
+    <string name="event_update">Update</string>
+    <string name="event_delete">Delete</string>
+    <string name="add_ons">Add-Ons</string>
+    <string name="location_map">Location</string>
+    <string name="hint_text">Enter Your Events here</string>
+    <string name="navigation_drawer_open">Open Navigation</string>
+    <string name="navigation_drawer_close">Close Navigation</string>
+    <string name="orientation">vertical</string>
+</resources>
